@@ -1,0 +1,97 @@
+body{
+    background-image: url("/Ejercicio-1/img/527937.jpg");
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    color: aliceblue;
+}
+
+#container{display: flex;
+margin: 0 auto;
+margin-top: 150px;}
+
+#left{
+    width: 30vw;
+    height: 100vh;
+    
+}
+
+#right{
+    width: 30vw;
+    height: 100vh;
+}
+
+#middle{
+    width: 60vw;
+    height: 100vh;
+}
+
+#mid1{
+    
+    color: aliceblue;
+}
+#mid2{
+    
+    background-color: rgb(238, 238, 238);
+    margin: 0 auto;
+    width: 600px;
+    height: 300px;
+    padding: 20px;
+}
+
+.caja1 {
+    background-color: white;
+    padding: 5%;
+}
+
+.cont1 {
+    background-color: whitesmoke;
+    padding: 5%;
+}
+
+
+.text1 {
+    color: grey;
+}
+.btn{    background-color: aquamarine;
+}
+
+.boton {
+    color: black;
+    background-color: aquamarine;
+    width: 100%
+}
+
+.txtprincipal {
+    color: azure;
+    text-align: center;
+}
+
+.txtsecundario {
+    color: white;
+    text-align: center;
+}
+
+.footer {
+    color: white;
+    text-align: center;
+    margin-top: 20px;
+    font-weight: 900px;
+
+}
+
+.btnfooter {
+    background-color: rgba(0, 0, 0, 0.556)!important;
+    color: white;
+    border-color: azure;
+}
+
+
+img{
+    width: 100px;
+    height: 100px;
+    float: right;
+}
+p{font-size: 12pt;
+color: grey;}
+h2{color: grey;
+font-weight: bolder;}
