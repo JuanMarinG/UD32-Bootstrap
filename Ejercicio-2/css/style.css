@@ -1,17 +1,10 @@
 body{
-   
-    background-color: rgb(255, 212, 127);
+    background-color: rgb(245, 245, 245);
 }
-/* #izq{
-    width: 10vw;
-    height: 100vh;
+#mid{
+    background-color: rgb(225, 225, 225);
+    width: 700px;
+    height: 500px;
+    margin: 0 auto;
+    margin-top: 200px;
 }
-#med{
-    width: 80vw;
-    height: 100vh;
-    background-color: rgb(155, 100, 34);
-}
-#der{
-    width: 10vw;
-    height: 100vh;
-} */
